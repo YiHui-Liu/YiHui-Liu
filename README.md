@@ -24,7 +24,6 @@
 
 ## 🔎 Find me
   - Email 💌： **fox@foolishfox.cn**
-  - Blog 📝: [Fox Home](https://foolishfox.cn)
 
 ## 🌎 Visitors
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YiHui-Liu&label=Profile%20views&color=0e75b6&style=flat" alt="bowang816" /> </p>
