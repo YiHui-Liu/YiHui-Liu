@@ -19,7 +19,6 @@
 
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api?username=YiHui-Liu&count_private=true&show_icons=true" height="160" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHui-Liu&layout=compact" height="160" align="center"/>
 </div>
 
 ## 🔎 Find me
